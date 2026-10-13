@@ -7,7 +7,7 @@ window.SIXSEVEN_CONFIG = {
   serverPort: "java版不需要端口吧哈哈哈哈",
   // GitHub Releases 页面或具体整合包文件的下载链接
   // 示例：https://github.com/你的用户名/你的仓库/releases/latest
-  downloadUrl: "",
+  downloadUrl: "https://github.com/MIMOSHAL6767/67Empire/releases/download/2026.10.14/67Empir2026.14.zip",
   // 可选：QQ群邀请、Discord 等社区链接
   communityUrl: "QQ群：302402450",
   // 整合包版本，例如 1.0.0

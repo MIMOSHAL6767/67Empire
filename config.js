@@ -11,5 +11,5 @@ window.SIXSEVEN_CONFIG = {
   // 可选：QQ群邀请、Discord 等社区链接
   communityUrl: "QQ群：302402450",
   // 整合包版本，例如 1.0.0
-  packVersion: "待填写"
+  packVersion: "2026.10.14"
 };

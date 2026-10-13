@@ -5,3 +5,43 @@
 .section-wrap{width:min(1120px,88%);margin:auto}.intro{padding-top:112px;padding-bottom:120px}.section-kicker{font-size:10px;letter-spacing:.2em;color:#7e8877;margin-bottom:38px}.intro-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:8%;align-items:start}.intro h2,.connect-heading h2,.download-copy h2{font-size:clamp(32px,4.4vw,54px);line-height:1.45;font-weight:400;letter-spacing:.035em;margin:0}.intro h2 span{color:#87917f}.intro-copy{font-size:14px;line-height:2.1;color:#51584d}.intro-copy p{margin:0 0 16px}.intro-copy .muted{font-size:12px;color:#8a8f84}.feature-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:62px}.feature-card{position:relative;min-height:200px;border:1px solid var(--line);padding:25px 25px 24px;background:rgba(255,255,255,.25)}.feature-number{font-size:10px;color:#8d9685;letter-spacing:.1em}.feature-icon{font-size:28px;color:#60745b;margin-top:22px}.feature-card h3{font-size:16px;font-weight:500;margin:12px 0}.feature-card p{font-size:12px;line-height:1.9;color:#737a6f;margin:0}.connect-section{background:#172019;color:#f1f2e9;padding:100px 0 105px;position:relative;overflow:hidden}.connect-section:after{content:"67";position:absolute;right:-15px;bottom:-110px;font:italic 360px var(--serif);color:rgba(255,255,255,.025);pointer-events:none}.connect-wrap{position:relative;z-index:1}.connect-section .section-kicker{color:#9da995}.connect-heading{display:flex;justify-content:space-between;align-items:end;gap:30px}.connect-heading h2{font-size:clamp(33px,4.5vw,55px)}.connect-heading p{font-size:13px;color:#adb7a8;line-height:1.9;margin:20px 0 0}.connect-stamp{display:flex;align-items:center;gap:14px;border:1px solid rgba(255,255,255,.18);padding:15px 18px;color:#b8c3af}.connect-stamp span{font:italic 42px var(--serif)}.connect-stamp small{font-size:8px;line-height:1.7;letter-spacing:.15em}.server-panel{max-width:790px;margin-top:48px;border:1px solid rgba(255,255,255,.2);background:rgba(255,255,255,.035)}.server-panel-top{padding:16px 22px;border-bottom:1px solid rgba(255,255,255,.14);font-size:9px;letter-spacing:.18em;color:#aeb9a8}.status-dot{display:inline-block;width:6px;height:6px;background:#b8c7a8;border-radius:50%;margin-right:10px}.panel-label{float:right;letter-spacing:.05em;color:#7e8c79}.server-field{padding:23px 22px;display:flex;justify-content:space-between;align-items:center;gap:20px;border-bottom:1px solid rgba(255,255,255,.1)}.field-label{display:block;font-size:9px;letter-spacing:.14em;color:#98a592;margin-bottom:10px}.server-field strong{font-size:15px;font-weight:400;letter-spacing:.03em;overflow-wrap:anywhere}.copy-button{background:transparent;border:1px solid rgba(255,255,255,.3);color:#f2f2e9;padding:10px 13px;min-width:112px;font:inherit;font-size:11px;cursor:pointer}.copy-button:hover{background:rgba(255,255,255,.1)}.copy-button span{margin-left:10px}.panel-note{padding:0 22px 17px;font-size:10px;color:#9aa594;margin:14px 0 0}.connect-note{display:flex;gap:13px;font-size:11px;color:#9eaa98;margin-top:22px;line-height:1.8}.connect-note span{color:#d9dfd0;letter-spacing:.12em}
 .download-section{padding-top:110px;padding-bottom:50px}.download-grid{display:grid;grid-template-columns:1fr .9fr;gap:8%;align-items:center}.dark-eyebrow{justify-content:flex-start;color:#74836e}.download-copy h2{margin:17px 0 18px}.download-copy>p:not(.eyebrow):not(.download-meta){font-size:13px;line-height:2;color:#6e756a;max-width:440px}.button-dark{background:#1a241b;color:#f4f4ec;margin-top:18px}.download-meta{font-size:10px;color:#92988d;margin-top:15px}.download-art{height:350px;position:relative;overflow:hidden;background:linear-gradient(145deg,#d8dfcd,#aab89f 50%,#687b63)}.art-sun{position:absolute;width:130px;height:130px;border-radius:50%;background:#f0e9cb;right:17%;top:12%;box-shadow:0 0 70px rgba(255,247,209,.6)}.art-hill{position:absolute;bottom:-30px;width:120%;height:65%;border-radius:50% 50% 0 0}.hill-one{background:#526c50;left:-20%;transform:rotate(-12deg)}.hill-two{background:#304b37;right:-36%;bottom:-70px;transform:rotate(12deg)}.pixel-tower{position:absolute;width:72px;height:140px;left:48%;bottom:62px;background:#b8b49b;box-shadow:inset -14px 0 #888c77,0 8px 0 rgba(0,0,0,.1);z-index:2}.pixel-tower:before{content:"";position:absolute;top:-35px;left:-15px;width:102px;height:40px;background:#574d3a;clip-path:polygon(10% 100%,20% 0,80% 0,90% 100%)}.pixel-tower span{position:absolute;left:20px;top:30px;width:27px;height:45px;background:#2c4130;border:5px solid #d1c9a8}.pixel-tower i{position:absolute;left:0;right:0;bottom:0;height:28px;background:#626d50}.pixel-tower b{position:absolute;width:12px;height:12px;background:#e5d6a0;top:75px;right:9px}.art-caption{position:absolute;z-index:3;left:22px;bottom:20px;font-size:9px;letter-spacing:.2em;line-height:1.7;color:#f0f0df}.download-help{border-top:1px solid var(--line);margin-top:75px;padding:22px 0;display:flex;gap:20px;align-items:center;font-size:11px;color:#81877c}.download-help span:first-child{color:#333a30;font-weight:600}.download-help a{margin-left:auto;color:#333a30;border-bottom:1px solid #899180;padding-bottom:4px}.footer{padding:40px 5.5% 20px;background:#e9eae2}.footer-brand .brand-mark{width:31px;height:31px;font-size:14px}.footer>p{font-size:11px;color:#82887d;margin:20px 0 35px}.footer-bottom{border-top:1px solid rgba(0,0,0,.12);padding-top:17px;display:flex;gap:20px;justify-content:space-between;align-items:center;font-size:9px;color:#8b9086}.footer-bottom a{color:#4f584b;white-space:nowrap}
 @media(max-width:760px){.site-header{height:68px;padding:0 5%}.nav,.nav-cta{display:none}.menu-toggle{display:block;color:#263126}.nav.open{display:flex;position:absolute;top:68px;left:0;right:0;background:#f4f4ef;padding:22px 6%;flex-direction:column;gap:22px;border-bottom:1px solid var(--line)}.hero{min-height:690px;min-height:calc(90svh - 68px)}.hero-image{background-position:53% center}.hero-content{padding:75px 0 110px}.eyebrow{font-size:8px;letter-spacing:.16em;gap:8px}.eyebrow-line{width:16px}h1{font-size:clamp(48px,13vw,78px);letter-spacing:.08em}.hero-subtitle{letter-spacing:.14em}.hero-description{font-size:12px;max-width:300px;margin:0 auto;line-height:2}.hero-foot{left:5%;right:5%;bottom:18px;font-size:8px;letter-spacing:.04em;align-items:end}.hero-version{max-width:48%;text-align:right;line-height:1.8}.scroll-cue{display:none}.section-wrap{width:88%}.intro{padding-top:75px;padding-bottom:78px}.section-kicker{margin-bottom:27px}.intro-grid,.download-grid{grid-template-columns:1fr;gap:20px}.intro h2,.connect-heading h2,.download-copy h2{font-size:36px}.intro-copy{font-size:13px}.feature-grid{grid-template-columns:1fr;gap:10px;margin-top:35px}.feature-card{min-height:0;padding:20px}.feature-icon{margin-top:12px}.connect-section{padding:75px 0}.connect-heading{align-items:start}.connect-stamp{display:none}.connect-heading p{font-size:12px}.server-panel{margin-top:32px}.server-field{padding:18px 14px;align-items:start}.server-field strong{font-size:12px}.copy-button{min-width:90px;padding:9px 8px;font-size:10px}.server-panel-top{padding:14px}.panel-label{font-size:8px}.panel-note{padding:0 14px 15px;line-height:1.8}.connect-note{font-size:10px}.download-section{padding-top:75px}.download-art{height:260px;margin-top:18px}.download-help{align-items:flex-start;flex-wrap:wrap;gap:10px;margin-top:50px}.download-help span:nth-child(2){flex-basis:100%;line-height:1.8}.download-help a{margin-left:0}.footer-bottom{flex-direction:column;align-items:flex-start;gap:10px;line-height:1.7}.footer-bottom a{margin-top:6px}}
+
+/* ===== 六七帝国：8 张背景图左右滑动轮播 ===== */
+
+.hero-image {
+  background-image: none;
+  overflow: hidden;
+}
+
+.hero-slides {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  width: 800%;
+  height: 100%;
+  will-change: transform;
+  transition: transform 750ms cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+.hero-slide {
+  flex: 0 0 12.5%;
+  width: 12.5%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center 53%;
+}
+
+/* 手机端沿用原来的取景习惯 */
+@media (max-width: 760px) {
+  .hero-slide {
+    background-position: 53% center;
+  }
+}
+
+/* 系统开启减少动态效果时，关闭滑动动画 */
+@media (prefers-reduced-motion: reduce) {
+  .hero-slides {
+    transition: none;
+  }
+}
